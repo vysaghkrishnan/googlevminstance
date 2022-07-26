@@ -59,7 +59,7 @@ variable scratch_disk {
 
 variable "region" {
   type        = string
-  default     = "us-central1"
+  default     = "europe-west2-a"
   description = "Name of Region."
 }
 
